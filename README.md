@@ -1,2 +1,1 @@
-# Scala-Programming-Cookbook
-Scala Programming Cookbook, published by Packt
+# The code for this repository is under development :construction_worker:
